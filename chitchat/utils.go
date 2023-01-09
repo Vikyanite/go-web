@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"go-web/data"
+	"go-web/chitchat/data"
 	"html/template"
 	"log"
 	"net/http"

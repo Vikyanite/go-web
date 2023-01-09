@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-web/data"
+	"go-web/chitchat/data"
 	"net/http"
 )
 

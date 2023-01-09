@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-web/data"
+	"go-web/chitchat/data"
 	"net/http"
 )
 
